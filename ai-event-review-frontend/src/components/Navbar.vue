@@ -6,6 +6,9 @@
         <li><router-link to="/events">Events</router-link></li>
         <li><router-link to="/reviews">Reviews</router-link></li>
         <li><router-link to="/about">About</router-link></li>
+        <li><router-link to="/calendar">Calendar</router-link></li>
+      <li><router-link to="/login">Login</router-link></li>
+      <li><router-link to="/register">Register</router-link></li>
       </ul>
     </nav>
   </template>
@@ -21,7 +24,7 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #333;
+    background-color: #db47aa;
     padding: 10px 20px;
     color: white;
   }
@@ -42,7 +45,7 @@
   }
   
   .nav-links a:hover {
-    color: #ffd700;
+    color: #0ccfe9;
   }
   </style>
   
