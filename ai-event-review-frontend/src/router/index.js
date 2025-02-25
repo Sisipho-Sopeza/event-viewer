@@ -6,7 +6,7 @@ import Login from '../views/Login.vue';
 import Register from '../views/Register.vue';
 import CalendarPage from '../components/CalendarPage.vue';
 import Navbar from '../components/Navbar.vue'; 
-
+import AboutView from '../views/AboutView.vue';
 
 // Only import AboutView after you've created the file
 // import AboutView from '../views/AboutView.vue';
